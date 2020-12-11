@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/kafka_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WikiGraph$$anonfun$main$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/WikiGraph$$anonfun$main$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/KafkaExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WikiGraph$$anonfun$main$2$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/WikiGraph$$anonfun$main$2$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WikiGraph$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/WikiGraph$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WikiGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/WikiGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WikiGraph$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/WikiGraph$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WikiGraph$$anonfun$main$3$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/WikiGraph$$anonfun$main$3$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/KafkaExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/KafkaExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WikiGraph$$anonfun$main$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/WikiGraph$$anonfun$main$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WikiGraph$$anonfun$main$4$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/WikiGraph$$anonfun$main$4$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WikiGraph$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/WikiGraph$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WikiGraph$$anonfun$main$5$$anonfun$apply$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/WikiGraph$$anonfun$main$5$$anonfun$apply$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WikiGraph$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/WikiGraph$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WikiGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/WikiGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaushikn/Downloads/BigData/kafka/target/scala-2.11/classes/log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
